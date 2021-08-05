@@ -1,6 +1,12 @@
 ## Obsidian Link Archiver Plugin
 
-This Obsidian(https://obsidian.md) plugin scans the opened note for links and submits them all to the Internet Archive's Wayback Machine (https://web.archive.org/).
+A quick, minimal (but working!) Obsidian(https://obsidian.md) plugin to submit all links found in a given note to the Internet Archive's Wayback Machine (https://web.archive.org/) for archiving.
+
+!!! Remember they are a non-profit so please don't spam them with a thousand links.
+
+### Future Plans
+- [ ] Add a setting to auto-replace links with the web-archive url.
+- [ ] Make progress modal in the status bar instead of a bit scary modal.
 
 ### Quick setup guide:
 
